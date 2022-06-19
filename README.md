@@ -17,6 +17,8 @@ ShareX
 
 SQL (MS SQL, PostgreSQL)
 
+GIT version control
+
 Creating test cases
 
 ISTQB knowledge
