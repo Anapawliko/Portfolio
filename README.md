@@ -36,7 +36,7 @@ A. Roman, L. Strapp. 2020. Certyfikowany tester ISTQB. Poziom podstawowy
 
 ***Kursy***
 
-Python - podastawy
+Python - podstawy
 
 Podstawy testowania IT
 
