@@ -34,3 +34,9 @@ K. Pawłowska, N. Pawlak. 2020. Podróż przez świat testowania
 
 A. Roman, L. Strapp. 2020. Certyfikowany tester ISTQB. Poziom podstawowy
 
+***Kursy***
+
+Python - podastawy
+
+Podstawy testowania IT
+
